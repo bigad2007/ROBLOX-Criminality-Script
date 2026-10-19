@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://flowauth.net/v1/loaders/ROBLOX-Criminality-Script.lua"))()
+loadstring(game:HttpGet("https://flowauth.netv1/loaders/ROBLOX-Criminality-Script.lua"))()
